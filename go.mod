@@ -1,3 +1,3 @@
-module com.github.hugovallada/filereader
+module github.com/hugovallada/filereader
 
 go 1.21.1
