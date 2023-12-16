@@ -1,3 +1,4 @@
+// filereader.go
 package filereader
 
 import (
